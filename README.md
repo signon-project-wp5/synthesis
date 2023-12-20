@@ -19,8 +19,8 @@ To embed all the realizer application into your app, you must include the follow
 
 - [build/index.html](index.html)
 - [build/js/](js) --> put the files inside into a folder named "js"
-- [data/](/data) --> (Eva_Y.glb is not required)
-- [external/](/external) --> (lexgui is not required)
+- [data/](/data)
+- [external/](/external)
 
 The organisation of folders and files should be as follows:
 
@@ -45,7 +45,7 @@ The organisation of folders and files should be as follows:
             - jquery-3.6.0.min.js
 
 ### Documentation
-A complete documentation of the BML descriptions can be found [here](https://github.com/upf-gti/SignON-realizer/blob/main/docs/InstructionsBML.md).
+A complete documentation of the BML descriptions related to both Manual Features (MF) and Non Manual Features (NMF) into animations can be found [here](https://github.com/upf-gti/SignON-realizer/blob/main/docs/InstructionsBML.md).
 
 ## Authors
 - Jaume Pozo [@japopra](https://github.com/japopra)  
